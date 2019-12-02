@@ -47,8 +47,7 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.LockObtainFailedException;
 import org.apache.lucene.store.RAMDirectory;
-import org.apache.lucene.util.Version;
-import org.wltea.analyzer.lucene.IKAnalyzer;
+import org.wltea.analyzer.lucene.ik.IKAnalyzer;
 
 /**
  * 使用IKAnalyzer进行Lucene索引和查询的演示 2012-3-2

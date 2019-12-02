@@ -33,7 +33,7 @@ import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
 import org.apache.lucene.analysis.tokenattributes.OffsetAttribute;
 import org.apache.lucene.analysis.tokenattributes.TypeAttribute;
-import org.wltea.analyzer.lucene.IKAnalyzer;
+import org.wltea.analyzer.lucene.ik.IKAnalyzer;
 
 /**
  * 使用IKAnalyzer进行分词的演示
